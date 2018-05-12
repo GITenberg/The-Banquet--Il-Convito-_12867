@@ -1,5 +1,5 @@
 _repo: The-Banquet--Il-Convito-_12867
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Morley, Henry
@@ -12,6 +12,9 @@ contributor:
     agent_name: Sayer, Elizabeth Price
     gutenberg_agent_id: '4681'
     url: http://www.gutenberg.org/2009/agents/4681
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dante Alighieri
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12867#The-Banquet--Il-Convito-
 gutenberg_issued: '2004-07-09'
 gutenberg_type: Text
 identifiers:
